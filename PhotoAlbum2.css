@@ -132,7 +132,7 @@ input[type = "checkbox"]:checked + label img
 
 input[type = "checkbox"]:checked + label > .centerRow1
     {
-        margin-top: 120%;
+        margin-top: 119%;
     }
 
 input[type = "checkbox"]:checked + label > .centerRow2
@@ -147,7 +147,7 @@ input[type = "checkbox"]:checked + label.row3
 
 input[type = "checkbox"]:checked + label > .centerCol1
     {
-        margin-left: 120%; 
+        margin-left: 119%; 
     }
 
 input[type = "checkbox"]:checked + label > .centerCol3
